@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Data Mahasiswa</title>
+  <title>List Data Mahasiswa</title>
 </head>
 
 <body>
